@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class KeyholdercalendarConfig(AppConfig):
+class KeyholderCalendarConfig(AppConfig):
     name = 'KeyholderCalendar'
